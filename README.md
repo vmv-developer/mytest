@@ -1,3 +1,3 @@
 # mytest
 first test w a repository
-i like :bicycle: :car: and :sailing-boat:
+i like :book: :car: and :boat:
